@@ -1,0 +1,7 @@
+torch
+torchvision
+gymnasium[atari]
+opencv-python
+tqdm
+numpy
+ale-py
